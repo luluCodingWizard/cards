@@ -1,0 +1,33 @@
+.card {
+  width: 350px;
+  max-width: 100%;
+  border-top: 4px solid;
+  border-radius: 10px;
+  background-color: #fff;
+  padding: 20px;
+  text-align: left;
+}
+.card.red-border {
+  border-color: #ea5454;
+}
+.card.aqua-border {
+  border-color: #44d3d2;
+}
+.card.blue-border {
+  border-color: #549ef2;
+}
+.card.orange-border {
+  border-color: #fcae4a;
+}
+.card_title {
+  font-weight: 600;
+}
+.card_content {
+  font-size: 13px;
+  color: #a3a5ae;
+}
+.card_image {
+  display: block;
+  margin-left: auto;
+  margin-top: 30px;
+}
