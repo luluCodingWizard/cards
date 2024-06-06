@@ -1,0 +1,8 @@
+h1 {
+  color: #4d4f62;
+  font-size: 36px;
+  margin: 0;
+}
+h1.isLight {
+  font-weight: 200;
+}
